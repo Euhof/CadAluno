@@ -20,7 +20,7 @@ Aplicação desktop em Python com interface gráfica (**Tkinter**) e persistênc
 python Main.py
 ```
 
-O arquivo `MeuBanco.db` será criado automaticamente na primeira execução (recomendado chamar `Cria_banco()` no início se a tabela ainda não existir).
+O arquivo `MeuBanco.db` será criado automaticamente na primeira execução.
 
 ## Estrutura do projeto
 
