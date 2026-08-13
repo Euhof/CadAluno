@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Banco de dados (não versionar dados locais)
+*.db
+MeuBanco.db
+
+# Arquivos do sistema / IDE
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
+
+# Arquivos de geração de documentação (não necessários no repo)
+gerar_doc_atualizada.js
+gerar_doc_projeto.js
+
+# Outros
+*.log
+.env
