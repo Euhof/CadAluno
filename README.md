@@ -51,6 +51,3 @@ Telas/
 | Idade | INTEGER  | —                           |
 | Email | TEXT     | UNIQUE                      |
 
-## ForceTech Jr. — Processo Trainee
-
-Documentação completa (todas as etapas) está no arquivo `Documentacao_CadAluno_ForceTech.docx`.
